@@ -1,3 +1,7 @@
+In a recent concurrent test, we discovered that handling concurrent requests in Shiny for Python is failing. We're all seeking a quick and sustainable solution to address this issue. One suggestion is to use a Gunicorn server with NGINX, which can enable concurrency by leveraging worker threads.
+
+Please review the following documentation, and if you find this approach promising, we can proceed with implementation.
+
 https://www.geeksforgeeks.org/fast-api-gunicorn-vs-uvicorn/
 
 https://stackshare.io/stackups/gunicorn-vs-uvicorn
