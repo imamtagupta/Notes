@@ -1,0 +1,24 @@
+https://www.geeksforgeeks.org/fast-api-gunicorn-vs-uvicorn/
+
+https://stackshare.io/stackups/gunicorn-vs-uvicorn
+
+https://flask-sock.readthedocs.io/en/latest/web_servers.html
+
+https://support.openanalytics.eu/t/shiny-for-python-app-fails-to-load/2528/4
+
+https://www.easydevguide.com/posts/gunicorn_concurrency
+
+
+An example: Flask app with guniconrn + NGINX for optimal scalability
+https://loadforge.com/guides/deploying-flask-applications-with-gunicorn-and-nginx-for-scalability
+
+
+
+Feedback:
+
+I’d love to hear your perspective on how I’ve been contributing to the team. Are there any areas you think I should focus on to have an even bigger impact
+
+I am aiming for promotion, I would like to get your thoughts on what can i do to stand out?
+
+
+I’ve been considering how I can contribute more across teams, but I’m unsure where to begin. Do you have any suggestions on where I could start or how I can make the most impact?
