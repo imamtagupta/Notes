@@ -26,3 +26,9 @@ I am aiming for promotion, I would like to get your thoughts on what can i do to
 
 
 I’ve been considering how I can contribute more across teams, but I’m unsure where to begin. Do you have any suggestions on where I could start or how I can make the most impact?
+
+
+
+I first created a sample Django app (v4.2), pulled a list of users created by me, and successfully used a POST API to create users. I also added a screenshot to the Jira ticket for reference.
+
+Next, I applied the same process to our simulation app. The challenge was that I initially used Django’s default ORM for database changes, which worked fine for the USER model but wasn't aligned with our non-ORM approach. To address this, I implemented a custom signal notification for handling data creation and updates. While it required a few additional functions, it's now working well without relying on the ORM
